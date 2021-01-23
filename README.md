@@ -6,7 +6,7 @@ Develop and design of mobile applications for startups and large companies as a 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyphyoe)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 &nbsp;Reach Me Via
+### 👋 Reach Me Via
 
 <p align="left">
 <a href="https://linkedin.com/in/waiyanphyoe"><img src="https://img.shields.io/badge/-waiyanphyoe-blue?style=flat&logo=Linkedin&logoColor=white"/></a>

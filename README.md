@@ -10,7 +10,5 @@ Develop and design of mobile applications for startups and large companies as a 
 
 <p align="left">
 <a href="https://linkedin.com/in/waiyanphyoe"><img src="https://img.shields.io/badge/-waiyanphyoe-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:waiyanphyoe.x@gmail.com"><img src="https://img.shields.io/badge/-waiyanphyoe.x@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/wy.phyoe"><img src="https://img.shields.io/badge/-wy.phyoe-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/waiyanphyoe.x"><img src="https://img.shields.io/badge/-waiyanphyoe.x-informational?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:waiyan.phyoe@icloud.com"><img src="https://img.shields.io/badge/-waiyan.phyoe@icloud.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>

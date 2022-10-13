@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Wai Yan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyphyoe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyphyoe&layout=compact)](https://github.com/wyphyoe/github-readme-stats)
 
 ### 👋 Reach Me Via
 

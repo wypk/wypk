@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Wai Yan
 
-![Wai Yan Phyoe's github stats](https://github-readme-stats.vercel.app/api?username=wyphyoe&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyphyoe)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👋 Reach Me Via
